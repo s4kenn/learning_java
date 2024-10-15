@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f5c2f6c-87b2-4ae5-8fff-94c4a3f99a57" name="Changes" comment="Some more commits">
+    <list default="true" id="6f5c2f6c-87b2-4ae5-8fff-94c4a3f99a57" name="Changes" comment="Practiced some code">
+      <change afterPath="$PROJECT_DIR$/src/ArraysLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -23,22 +28,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "s4kenn"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;s4kenn&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/s4kenn/learning_java.git",
-    "accountId": "2a832f6c-3f08-405d-b2f0-1f4b641e7c6f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/s4kenn/learning_java.git&quot;,
+    &quot;accountId&quot;: &quot;2a832f6c-3f08-405d-b2f0-1f4b641e7c6f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nLcXF5bMUgD8UqW6WcDvOp4tfe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,14 +54,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arrays.executor": "Run",
+    "Application.ArraysLearning.executor": "Run",
+    "Application.ClassesAndObjects.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainNew.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/yeezu/Desktop/Learning Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ClassesAndObjects">
+    <configuration name="ArraysLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysLearning" />
+      <module name="Learning Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassesAndObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesAndObjects" />
+      <module name="Learning Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Learning Java" />
@@ -64,8 +87,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainNew" />
+      <module name="Learning Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassesAndObjects" />
+        <item itemvalue="Application.ArraysLearning" />
+        <item itemvalue="Application.MainNew" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -87,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728759619580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practiced some code">
+      <option name="closed" value="true" />
+      <created>1728763904794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728763904794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practiced some code">
+      <option name="closed" value="true" />
+      <created>1728764088495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728764088495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some more commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some more commits" />
+    <MESSAGE value="Learning Java" />
+    <MESSAGE value="Practiced some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practiced some code" />
   </component>
 </project>

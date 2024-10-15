@@ -35,7 +35,18 @@ public class Main {
 
         System.out.println();
 
-        System.out.println(isArmstrong(153));
+        for (int i = 1; i <= 5; i++) {
+            for (int j = 1; j <= 5 - i; j++) {
+                System.out.print("  ");  // Print two spaces for better alignment
+            }
+            for (int k = 1; k <= i; k++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+
+
+//        System.out.println(isArmstrong(153));
 
 
     }
